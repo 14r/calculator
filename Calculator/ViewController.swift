@@ -77,7 +77,6 @@ class ViewController: UIViewController {
     
     @IBAction func plus(){
         label.text = "0"
-        
         operation = 1
         number2 = number
         number = 0
@@ -86,7 +85,6 @@ class ViewController: UIViewController {
     
     @IBAction func minus(){
         label.text = "0"
-        
         operation = 2
         number2 = number
         number = 0
