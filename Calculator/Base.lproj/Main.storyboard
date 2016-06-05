@@ -44,11 +44,11 @@
                                     <action selector="plus" destination="BYZ-38-t0r" eventType="touchUpInside" id="U6O-FF-yZt"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iP9-6U-7kF">
-                                <rect key="frame" x="163" y="248" width="30" height="30"/>
-                                <state key="normal" title="C"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rNI-Xa-7VR">
+                                <rect key="frame" x="279" y="253" width="30" height="30"/>
+                                <state key="normal" title="="/>
                                 <connections>
-                                    <action selector="clear" destination="BYZ-38-t0r" eventType="touchUpInside" id="z4A-32-alk"/>
+                                    <action selector="equal" destination="BYZ-38-t0r" eventType="touchUpInside" id="sr5-Lq-fOM"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z5B-T0-kWe">
@@ -128,11 +128,11 @@
                                     <action selector="waru" destination="BYZ-38-t0r" eventType="touchUpInside" id="KbH-B5-jpG"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rNI-Xa-7VR">
-                                <rect key="frame" x="279" y="253" width="30" height="30"/>
-                                <state key="normal" title="="/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iP9-6U-7kF">
+                                <rect key="frame" x="127" y="209" width="30" height="30"/>
+                                <state key="normal" title="C"/>
                                 <connections>
-                                    <action selector="equal" destination="BYZ-38-t0r" eventType="touchUpInside" id="sr5-Lq-fOM"/>
+                                    <action selector="clear" destination="BYZ-38-t0r" eventType="touchUpInside" id="z4A-32-alk"/>
                                 </connections>
                             </button>
                         </subviews>
